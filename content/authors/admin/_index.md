@@ -98,23 +98,27 @@ work:
     #summary: |2-
     #  Responsibilities include:
 
+  - position: Research mentor for undergraduate students
+    company_name: Cornell University
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2024-08-21
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Python, Matlab, Bash, LAMMPS, Ovito, Ansys Fluent, Solidworks.
         description: ''
         #percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Machine Learning MD simulations, N-body simulations, CFD.
         description: ''
         #percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        #percent: 40
-        icon: circle-stack
+        icon: square-3-stack-3d
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
