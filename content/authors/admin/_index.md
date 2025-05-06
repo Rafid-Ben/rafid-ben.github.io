@@ -79,15 +79,24 @@ education:
       
       Graduation Project: Study of the impact of the cooling system on the performance of a combined-cycle power plant: Comparison study between water cooling and air cooling.
 
-#work:
-#  - position: Director of Cloud Infrastructure
-#   company_name: GenCoin
-#  company_url: ''
-#   company_logo: ''
-#   date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
+work:
+  - position: Teaching Assistant
+    company_name: Propulsion of Spacecraft - Cornell University
+    company_url: https://classes.cornell.edu/browse/roster/FA24/class/MAE/5540
+    company_logo: ''
+    date_start: 2024-08-21
+    date_end: 2024-12-21
+    #summary: |2-
+    #  Responsibilities include:
+
+     - position: Teaching Assistant
+    company_name: Introduction to Mechanical Engineering - Cornell University
+    company_url: https://classes.cornell.edu/browse/roster/FA23/class/ENGRI/1170
+    company_logo: ''
+    date_start: 2023-08-21
+    date_end: 2023-12-21
+    #summary: |2-
+    #  Responsibilities include:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
