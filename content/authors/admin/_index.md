@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Rafid Bendimerad
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ra-Feed Ben-Dee-Me-Rad
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rafid
+last_name: Bendimerad
 
 # Status emoji
 status:
