@@ -31,58 +31,54 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:arb399@cornell.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  #- icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Rafid-Ben
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/rafid-bendimerd/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=rbdJ6EMAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-0423-4934
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Space Propulsion
+  - Space Mission Design and Analysis
+  - Artificial Intelligence for Science 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Candidate - Aerospace Engineering (with a double minor in Astronomy and Computer Science),
+    institution: Cornell University, USA.
+    date_start: 2020
+    date_end: 2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      I worked on several projects funded by NASA and AFOSR. My research invlolves on-orbit refueling, discovery of new propellants for propulsion systems using Machine Learning (ML), and modeling and simulation of electrospray thruster plumes using Molecular Dynamics (MD) simulations and N-body simulations. 
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: M.Sc. in Fluid Mechanics,
+    institution: Ecole Polytechnique, France.
+    date_start: 2018
+    date_end: 2019
     summary: |
-      GPA: 3.8/4.0
+      Graduation Project: Impact of the water's depth on the wave drag for symmetric and non-symmetric bodies -- Application to rowing, canoe and kayak boats --.
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Courses included: Turbulence, Magnetohydrodynamics, Hydrodynamic Instabilities, CFD, etc.
+
+  - area: B.Sc. in Mechanical Engineering,
+    institution: Ecole Nationale Polytechnique, Algeria.
+    date_start: 2013
+    date_end: 2018
     summary: |
-      GPA: 3.4/4.0
+      Distinction: Valedictorian.
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Graduation Project: Study of the impact of the cooling system on the performance of a combined-cycle power plant: Comparison study between water cooling and air cooling.
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -142,12 +138,12 @@ skills:
         icon: camera
 
 languages:
+  - name: Arabic
+    #percent: 100
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    #percent: 75
+  - name: French
+    #percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +179,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome!
+
+I am Rafid Bendimerad, a PhD candidate in Aerospace Engineering at Cornell University. I work on several aspects related to space propulsion.
