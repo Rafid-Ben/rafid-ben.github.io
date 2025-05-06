@@ -110,18 +110,18 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Content creation on social media
+      - name: Content creation
         #description: ''
         #percent: 60
-        icon: share-2
+        icon: pen
       - name: Anime
         #description: ''
         #percent: 100
-        icon: tv
+        # icon: tv
       - name: Workout
         #description: ''
         #percent: 80
-        icon: dumbbell
+        icon: run
 
 languages:
   - name: Arabic
