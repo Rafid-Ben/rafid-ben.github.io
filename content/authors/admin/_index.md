@@ -78,8 +78,8 @@ education:
       Distinction: Valedictorian.
       
       Graduation Project: Study of the impact of the cooling system on the performance of a combined-cycle power plant: Comparison study between water cooling and air cooling.
-
-#work:
+<!--
+work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -102,7 +102,7 @@ education:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+-->
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -110,32 +110,32 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        #percent: 80
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        #percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        #percent: 40
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Content creation on social media
+        #description: ''
+        #percent: 60
+        icon: share-2
+      - name: Anime
+        #description: ''
+        #percent: 100
+        icon: tv
+      - name: Workout
+        #description: ''
+        #percent: 80
+        icon: dumbbell
 
 languages:
   - name: Arabic
