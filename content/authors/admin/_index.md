@@ -63,8 +63,8 @@ education:
     #  url: 'https://example.com'
   - area: M.Sc. in Fluid Mechanics,
     institution: Ecole Polytechnique, France.
-    date_start: 2018
-    date_end: 2019
+    date_start: 2018-08-20
+    date_end: 2019-12-31
     summary: |
       Graduation Project: Impact of the water's depth on the wave drag for symmetric and non-symmetric bodies -- Application to rowing, canoe and kayak boats --.
 
@@ -72,8 +72,8 @@ education:
 
   - area: B.Sc. in Mechanical Engineering,
     institution: Ecole Nationale Polytechnique, Algeria.
-    date_start: 2013
-    date_end: 2018
+    date_start: 2013-09-01
+    date_end: 2018-07-05
     summary: |
       Distinction: Valedictorian.
       
