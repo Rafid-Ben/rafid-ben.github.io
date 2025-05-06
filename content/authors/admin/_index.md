@@ -3,7 +3,7 @@
 title: Rafid Bendimerad
 
 # Name pronunciation (optional)
-name_pronunciation: Ra-Feed Ben-Dee-Me-Rad
+name_pronunciation: رَفِـيد بـَن دِي مَرَّاد
 
 # Full name (for SEO)
 first_name: Rafid
