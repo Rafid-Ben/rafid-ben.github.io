@@ -54,8 +54,8 @@ interests:
 education:
   - area: PhD Candidate in Aerospace Engineering --with a double minor in Astronomy and Computer Science--,
     institution: Cornell University, USA.
-    date_start: 2020
-    date_end: 2025
+    date_start: 2021-01-01
+    date_end: 2025-08-31
     summary: |
       I worked on several projects funded by NASA and AFOSR. My research invlolves on-orbit refueling, discovery of new propellants for propulsion systems using Machine Learning (ML), and modeling and simulation of electrospray thruster plumes using Molecular Dynamics (MD) simulations and N-body simulations. 
     #button:
@@ -113,7 +113,7 @@ skills:
       - name: Content creation
         #description: ''
         #percent: 60
-        icon: pen
+        #icon: pen
       - name: Anime
         #description: ''
         #percent: 100
@@ -121,7 +121,7 @@ skills:
       - name: Workout
         #description: ''
         #percent: 80
-        icon: run
+        #icon: run
 
 languages:
   - name: Arabic
