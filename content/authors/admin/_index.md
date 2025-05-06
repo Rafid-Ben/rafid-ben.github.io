@@ -158,7 +158,7 @@ awards:
     url: https://gradschool.cornell.edu/spotlights/student-spotlight-rafid-bendimerad/
     date: '2022-08-01'
     awarder: Cornell University 
-    icon: academic-cap
+    #icon: academic-cap
     summary: |
      I was selected to receive 2022 Africa Fund Fellowships from Cornell University.
 ---
