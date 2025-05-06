@@ -25,7 +25,7 @@ role: PhD Candidate - Aerospace Engineering
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Cornell University - ASTRA Lab
-    url: [www.astralab.mae.cornell.edu](https://www.astralab.mae.cornell.edu/)
+    url: https://www.astralab.mae.cornell.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
