@@ -124,12 +124,9 @@ skills:
         #icon: run
 
 languages:
-  - name: Arabic
-    #percent: 100
-  - name: English
-    #percent: 75
-  - name: French
-    #percent: 25
+  - name: Arabic / English / French
+    percent: 100
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
