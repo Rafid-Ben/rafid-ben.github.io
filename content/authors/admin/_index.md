@@ -52,7 +52,7 @@ interests:
   - Artificial Intelligence for Science 
 
 education:
-  - area: PhD Candidate - Aerospace Engineering (with a double minor in Astronomy and Computer Science),
+  - area: PhD Candidate in Aerospace Engineering --with a double minor in Astronomy and Computer Science--,
     institution: Cornell University, USA.
     date_start: 2020
     date_end: 2025
@@ -79,7 +79,7 @@ education:
       
       Graduation Project: Study of the impact of the cooling system on the performance of a combined-cycle power plant: Comparison study between water cooling and air cooling.
 
-work:
+#work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
     company_url: ''
@@ -179,6 +179,8 @@ awards:
 
 ## About Me
 
-Welcome!
+Salam/Hello!
 
-I am Rafid Bendimerad, a PhD candidate in Aerospace Engineering at Cornell University. I work on several aspects related to space propulsion.
+I am Rafid Bendimerad, a PhD candidate in Aerospace Engineering at Cornell University. My research involves several aspects related to space propulsion, including: on-orbit refueling, discovery of new propellants for propulsion systems using Machine Learning (ML), and modeling and simulation of electrospray thruster plumes using Molecular Dynamics (MD) simulations and N-body simulations. 
+
+Besides my research, I like sharing scientific content on my [YouTube Channel](https://www.youtube.com/@rafidbendimerad).
