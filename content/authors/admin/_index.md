@@ -89,7 +89,7 @@ work:
     #summary: |2-
     #  Responsibilities include:
 
-     - position: Teaching Assistant
+  - position: Teaching Assistant
     company_name: Introduction to Mechanical Engineering - Cornell University
     company_url: https://classes.cornell.edu/browse/roster/FA23/class/ENGRI/1170
     company_logo: ''
