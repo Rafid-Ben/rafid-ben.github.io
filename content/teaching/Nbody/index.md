@@ -1,5 +1,5 @@
 ---
-title: Tutorial: N-body simulations of electrospray thruster plumes
+title: Tutorial N-body simulations of electrospray thruster plumes
 summary: Learn how to simulate particle dynamics with Python
 date: 2024-08-01
 type: docs
