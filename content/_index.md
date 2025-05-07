@@ -35,11 +35,14 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        As a PhD candidate in Aerosapce Engineering, I am part of the ASTRA Lab; a lab that focuses on space electric propulsion directed by Prof. Elaine Petro. I have been involved in several projects funded by NASA and by the Air Force Office of Scientific Research (AFOSR). Namely, I worked on:
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        - Mission analysis and optimization of in-space refueling strategies. Funding: AFOSR. 
+        - Discovery of new propellants for electrospray propulsion based on their molecular descriptors using machine learning. Funding: AFOSR. 
+        - Multiscale characterization of electrospray thruster plumes: from nanoscale (using Molecular Dynamics simulations) to millimeter scale (using N-body simulations). Funding: NASA. 
+
         
-        Please reach out to collaborate 😃
+        
     design:
       columns: '1'
   - block: collection
