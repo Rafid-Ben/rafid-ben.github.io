@@ -1,7 +1,7 @@
 ---
 title: IEPC Presentation
 
-event: IEPC 2024
+event: International Electric Propulsion Conference (IEPC) 2024
 event_url: https://youtu.be/RjR4X9IL26Q
 
 #location: Hyatt Regency
