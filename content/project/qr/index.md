@@ -1,0 +1,10 @@
+---
+title: QR code generator
+date: 2025-01-21
+external_link: https://github.com/Rafid-Ben/QR-code-generator
+tags:
+  - QR
+---
+Just a handy and quick Python code to generate QR codes from URLs. 
+
+<!--more-->
