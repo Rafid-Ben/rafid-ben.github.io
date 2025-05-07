@@ -12,7 +12,7 @@ image:
 
 I gave this lecture for the "Propulsion of Spacecraft" course at Cornell University. This lecture includes the derivation of the most important equations used in propulsion; namely: the rocket equation, the thrust, and the specific impulse.
 
-{{< youtube JMaoHeH7I5 >}}
+{{< youtube JMaoHeH7I5o >}}
 
 
 
