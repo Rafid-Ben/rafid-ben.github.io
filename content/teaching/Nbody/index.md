@@ -19,4 +19,4 @@ In this tutorial, we'll guide you through simulating the expansion of a plume fr
 - Update particle positions
 - Visualize particle propagation in 2D and 3D
 
-{{< youtube JlYvyrfRBOeE >}}
+{{< youtube lYvyrfRBOeE >}}
