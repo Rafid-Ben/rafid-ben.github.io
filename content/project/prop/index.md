@@ -1,6 +1,6 @@
 ---
 title: Optimization of on-orbit refueling for space missions
-date: 2025-05-21
+date: 2025-05-01
 external_link: https://github.com/Rafid-Ben/Propulsion_optimization
 tags:
   - Refueling
