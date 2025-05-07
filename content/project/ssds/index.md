@@ -1,6 +1,6 @@
 ---
 title: Classification of astronomical objects
-date: 2023-5-21
+date: 2023-05-21
 external_link: https://github.com/Rafid-Ben/SSDS
 tags:
   - SDSS
