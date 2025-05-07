@@ -38,7 +38,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+#url_pdf: ''
 url_code: 'https://github.com/Rafid-Ben/Propulsion_optimization'
 url_dataset: ''
 url_poster: ''
