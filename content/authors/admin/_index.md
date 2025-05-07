@@ -52,7 +52,7 @@ interests:
   - Artificial Intelligence for Science 
 
 education:
-  - area: PhD Candidate in Aerospace Engineering --with a double minor in Astronomy and Computer Science--,
+  - area: PhD Candidate in Aerospace Engineering -with a double minor in Astronomy and Computer Science-,
     institution: Cornell University, USA.
     date_start: 2021-01-01
     date_end: 2025-08-31
