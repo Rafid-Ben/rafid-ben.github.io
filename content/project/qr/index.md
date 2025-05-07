@@ -1,6 +1,6 @@
 ---
 title: QR code generator
-date: 2025-01-21
+date: 2024-01-21
 external_link: https://github.com/Rafid-Ben/QR-code-generator
 tags:
   - QR
