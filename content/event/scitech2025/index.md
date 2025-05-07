@@ -4,7 +4,7 @@ title: Conference Presentation
 event: AIAA SciTech Forum 2025
 event_url: https://www.youtube.com/watch?v=UpbioVSGfzE&ab_channel=RafidBendimerad
 
-location: Hugo Blox Builder HQ
+location: Hyatt Regency
 address:
   #street: 450 Serra Mall
   city: Orlando
@@ -13,10 +13,10 @@ address:
   country: United States
 
 summary: I presented my paper titled "Optimization of Refueling Strategies for Space Missions".
-#abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: ''
 
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+#   End time can optionally be hidden by prefixing the line with `#`.#
 date: '2025-01-06T13:00:00Z'
 date_end: '2025-01-10T15:00:00Z'
 all_day: false
