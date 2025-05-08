@@ -1,12 +1,12 @@
 ---
 title: AIAA SciTech Forum 2025
 summary: I presented my research at SciTech
-date: 2023-10-24
+date: 2025-01-10
 math: true
 authors:
   - Rafid Bendimerad
 tags:
-  - Podcast
+  - SciTech2025 
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---

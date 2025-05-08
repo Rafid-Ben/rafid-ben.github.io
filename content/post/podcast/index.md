@@ -1,7 +1,7 @@
 ---
 title: Podcast with Polytechnic Algiers Community
 summary: I talked on "Gasra 3ilmiya" podcast (in Algerian Arabic)
-date: 2023-10-24
+date: 2025-03-10
 math: true
 authors:
   - Rafid Bendimerad

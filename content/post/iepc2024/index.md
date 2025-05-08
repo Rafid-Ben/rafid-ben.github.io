@@ -1,12 +1,12 @@
 ---
 title: IEPC 2024
 summary: I presented my research at the International Electric Propulsion Conference
-date: 2023-10-24
+date: 2024-06-28
 math: true
 authors:
   - Rafid Bendimerad
 tags:
-  - Podcast
+  - IEPC2024
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
