@@ -43,8 +43,11 @@ profiles:
     url: https://www.linkedin.com/in/rafid-bendimerd/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=rbdJ6EMAAAAJ&hl=en&oi=ao
+  - icon: brands/youtube
+    url: https://www.youtube.com/@rafidbendimerad
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-0423-4934
+  
 
 interests:
   - Space Propulsion
