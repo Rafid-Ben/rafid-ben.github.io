@@ -27,8 +27,9 @@ publication_short: In *ICW*
 # Summary. An optional shortened abstract.
 summary: This paper builds a Machine Learning framework for the discovery of new propellants for electrospray thrusters.
 
-#tags:
-#  - refueling
+
+tags:
+  - IEPC 2024
 
 # Display this page in the Featured widget?
 featured: true
