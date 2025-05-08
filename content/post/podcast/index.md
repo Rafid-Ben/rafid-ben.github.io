@@ -11,7 +11,7 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-In this episode, I gave an overview of the field of Aerospace Engineering, I talked a little bit about my research, and we discussed topics related to philosophy of science. 
+In this episode, I gave an overview of the field of Aerospace Engineering, I talked a little bit about my research, and we discussed topics related to philosophy of science, all in colloquial Algerian dialect.
 
 ## Video
 
