@@ -1,5 +1,5 @@
 ---
-title: 'Molecular dynamics studies of ionic liquid-surface interactions for electrospray thrusters'
+title: 'Investigating the Chemical Stability of Electrospray Plumes During Particle Collisions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,11 +7,11 @@ title: 'Molecular dynamics studies of ionic liquid-surface interactions for elec
 authors:
   - Rafid Bendimerad
 
-date: '2022-11-25T00:00:00Z'
-doi: '10.1007/s44205-024-00085-y'
+date: '2024-01-01T00:00:00Z'
+doi: '10.2514/1.B39118'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-25T00:00:00Z'
+publishDate: '2024-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,10 +25,10 @@ publication_short: In *ICW*
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: This paper uses Molecular Dynamics simulations to simulate propellant-surface collisions within the plume of electrospray thrusters.
+summary: This paper used Molecular Dynamics (MD) simulations to simulate inter-particle collisions within the plume of electrospray thrusters.
 
 tags:
-  - Journal of Electric Propulsion
+  - Journal of Propulsion and Power
 
 # Display this page in the Featured widget?
 featured: true
@@ -38,14 +38,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://link.springer.com/article/10.1007/s44205-022-00032-9'
+url_pdf: 'https://drive.google.com/file/d/13bXypTFQ27OqF353-VPnsFYZeNeQKDbA/view'
 #url_code: 'https://github.com/Rafid-Ben/Propulsion_optimization'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+#url_video: 'https://www.youtube.com/watch?v=UpbioVSGfzE&ab_channel=RafidBendimerad'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -59,8 +59,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-#projects:
-#  - prop
+projects:
+  - prop
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
