@@ -11,7 +11,7 @@ last_name: Bendimerad
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🛰️
 
 # Is this the primary user of the site?
 superuser: true
@@ -173,7 +173,7 @@ Salam/Hello!
 I am Rafid Bendimerad, a PhD candidate in Aerospace Engineering at Cornell University. I am passionate about space exploration and about using artificial intelligence to solve scientific and engineering problems. The goal of my research is to advance space electric propulsion to enable future space missions that are unachievable with current propulsion systems.
 I do this through modeling, numerical simulations, and machine learning.
 
-The main focus of my research is on **Electrospray thrusters**. These are composed of tiny emitters that can only deliver a minuscule amount of force--not enough to move the spacecraft even a little. However, if you take thousands of them, put them together in a compact manner, you can achieve sufficient force to push the spacecraft with very high efficiency. Electrospray thrusters are meant to be used for the [LISA mission](https://lisa.nasa.gov/) in 2035.
+The main focus of my research is on **Electrospray thrusters**. These are composed of tiny emitters that can only deliver a minuscule amount of force---not enough to move the spacecraft even a little. However, if you take thousands of them, put them together in a compact manner, you can achieve sufficient force to push the spacecraft with very high efficiency. Electrospray thrusters are meant to be used for the [LISA mission](https://lisa.nasa.gov/) in 2035.
 
 In addition to my work on Electrospray thrusters, I also worked on **On-Orbit Refueling**. This is a futuristic project that aims to study the placement of refueling stations in space so that, instead of terminating the mission because of fuel depletion, spacecraft can go refuel and continue their main mission.
 
