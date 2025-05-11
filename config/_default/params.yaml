@@ -6,8 +6,8 @@
 # Appearance
 appearance:
   mode: system
-  theme_day: 1950s
-  theme_night: midnight
+  theme_day: forest
+  theme_night: dark
 
 # SEO
 marketing:
