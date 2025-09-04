@@ -8,7 +8,7 @@ authors:
 tags:
   - SciTech2025 
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'PAC-USA gathering'
 ---
 
 I had the great pleasure to attend the inaugural gathering of the US chapter of Polytechnic Algiers Community in Washington DC. During this event, we had the honor of engaging in a conversation with Dr. Braham Himed, the President-Elect of IEEE Aerospace & Electronic Systems Society (AESS) and an esteemed Alumni of Ecole Nationale Polytechnique from the class of 1984. Dr. Himed shared insights from his extensive 40-year career in scientific research, including his experience in academia, industry, government, and professional organizations such as IEEE and AESS.
