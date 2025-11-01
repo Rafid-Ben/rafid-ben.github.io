@@ -15,11 +15,13 @@ After completing my PhD at **Cornell University**, I returned to Algeria for a s
 
   ### Invited Talks
 
-  - **Feb 2025** — *My Academic Journey in Aerospace Engineering*, invited by the **Polytechnic Algiers Community (PAC)**.  
-  - **Sep 2025** — *Introduction to Space Propulsion*, invited by the **Mechanical Engineering Club (MEC)**.  
+  - **Oct 2025** — *On-Orbit Refueling and Discovery of New Fuels*, invited by the **Department of Mechanical Engineering**, École Nationale Polytechnique.  
   - **Oct 2025** — *Introduction to Astronautics*, invited by the **Vision & Innovation Club (VIC)**.  
   - **Oct 2025** — *Applications of Engineering Majors in Aerospace*, invited by the **Vision & Innovation Club (VIC)**.  
+  - **Sep 2025** — *Introduction to Space Propulsion*, invited by the **Mechanical Engineering Club (MEC)**.  
+  - **Feb 2025** — *My Academic Journey in Aerospace Engineering*, invited by the **Polytechnic Algiers Community (PAC)**.
 
+  ---
 ## Video
 
 **Youtube**:
