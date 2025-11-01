@@ -6,7 +6,7 @@ math: true
 authors:
   - Rafid Bendimerad
 tags:
-  - Podcast
+  - Talks
 image:
   caption: 'PAC- Gasra #ilmiya'
 ---

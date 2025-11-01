@@ -6,7 +6,7 @@ math: true
 authors:
   - Rafid Bendimerad
 tags:
-  - IEPC2024
+  - Talks
 image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
