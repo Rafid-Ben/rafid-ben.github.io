@@ -6,7 +6,7 @@ math: true
 authors:
   - Rafid Bendimerad
 tags:
-  - SciTech2025 
+  - Talks
 image:
   caption: 'PAC-USA gathering'
 ---
